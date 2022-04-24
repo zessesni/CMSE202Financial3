@@ -1,1 +1,12 @@
-# CMSE202Financial3
+How to run the code:
+
+
+
+
+
+
+Each member's contribution:
+Hunter - 
+Maneesh - 
+Nick - 
+Alli - 
