@@ -6,7 +6,10 @@ How to run the code:
 
 
 Each member's contribution:
-Hunter - 
-Maneesh - 
-Nick - 
-Alli - 
+Hunter - Powerpoint slides, code
+
+Maneesh - Code
+
+Nick - Code
+
+Alli - Code
