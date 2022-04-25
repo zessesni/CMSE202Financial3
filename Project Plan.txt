@@ -1,0 +1,7 @@
+-etf dictionary
+-csv masterlist
+-for loop for xvlines per natural disaster
+-Add in regression, predicted percentage change value
+-Compare change to S&P500
+-Powerpoint
+-Rehearse
