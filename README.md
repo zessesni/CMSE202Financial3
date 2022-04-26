@@ -1,3 +1,6 @@
+Which notebook to use:
+CMSE 202 Financial 3 Official.ipynb
+
 How to run the code:
 
 There are three classes: one for each natural disaster. To run the code, engage the class for the natural disaster you want. Then, pick an industry to go along with it.
